@@ -1,2 +1,1 @@
-# csi_204
-Hello World
+hello world
